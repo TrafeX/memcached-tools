@@ -11,6 +11,7 @@
  * @author      Tim de Pater <code AT trafex DOT nl>
  * @link        http://www.trafex.nl
  * @copyright   Copyright (c) 2012 Tim de Pater
+ * @license     http://www.gnu.org/licenses/gpl.txt GNU GPLv3
  *
  */
 if (count($argv) < 4) {
